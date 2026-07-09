@@ -29,7 +29,7 @@ const favouriteSite = {
 const element4 = (<a href={favouriteSite.url}>{favouriteSite.site}</a>)
 
 let v1 = 3
-let v2 = 5
+let v2 = 9
 
 const sum = v1 + v2
 const element5 = React.createElement("p", null, sum )
